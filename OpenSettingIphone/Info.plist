@@ -13,8 +13,6 @@
 			<string>Editor</string>
 		</dict>
 	</array>
-	<key>CFBundleDisplayName</key>
-	<string>URLSchemes</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
